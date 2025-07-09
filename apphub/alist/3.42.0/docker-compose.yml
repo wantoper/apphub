@@ -1,6 +1,6 @@
 services:
   alist:
-    image: xhofe/alist:latest
+    image: xhofe/alist:v3.42.0
     deploy:
       resources:
         limits:
